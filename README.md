@@ -20,7 +20,7 @@ untuk mengerjakan saya memasukan syntax dibawah
     print("bilangan terbesar =",max)
 dari proses diatas saya mendapatkan output
 
-! [img](gambar/output1.png)
+![img](gambar/output1.png)
 
 
 #  lab2 latihan 2
@@ -37,7 +37,7 @@ untuk mengerjakan saya memasukan syntax dibawah
     dari proses diatas saya mendapat output
 
 
-! [img](gambar/output2.png)
+![img](gambar/output2.png)
 
 #  lab3 lathian 1
 untuk mengerjakan saya memasukan syntax dibawah
@@ -55,7 +55,7 @@ untuk mengerjakan saya memasukan syntax dibawah
 
 dari proses diatas saya mendapatkan output
 
-! [img](gambar/output3.png)
+![img](gambar/output3.png)
 
 # lab3 lathian 2
 
@@ -75,7 +75,7 @@ untuk mengerjakan soal diatas saya menggunakan syntax dibawah
 
 dari proses diatas saya mendapatkan output dibawah
 
-! [img](gambar/output4.png)
+![img](gambar/output4.png)
 
 
 terima kasih
